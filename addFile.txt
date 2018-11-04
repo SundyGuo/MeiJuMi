@@ -6,3 +6,5 @@ Git change in weekend
 Git change for branch dev
 change for testing stach
 change again
+change from gitself path 
+
